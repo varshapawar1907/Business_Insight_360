@@ -123,6 +123,6 @@ Provided a centralized analytics platform for tracking business growth, profitab
 
 ## 7. Screenshots / Demo
 
-(https://github.com/varshapawar1907/Business_Insight_360/blob/main/Business%20Insights%20360.png)
+https://github.com/varshapawar1907/Business_Insight_360/blob/main/Business%20Insights%20360.png
 
 
