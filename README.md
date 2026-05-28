@@ -13,12 +13,12 @@ The Business Insights 360 Dashboard provides a centralized analytical view of ke
 
 The dashboard was built using the following tools and technologies:
 
-•  Power BI Desktop – Main platform used for dashboard development and data visualization.
-•  Power Query – Used for data cleaning, transformation, and preprocessing.
-•  DAX (Data Analysis Expressions) – Implemented for KPI calculations, measures, and dynamic reporting logic.
-•  SQL & Snowflake – Used for querying, managing, and analyzing large-scale business datasets.
-•  Data Modeling – Established relationships among multiple business tables for efficient cross-filtering and analysis.
-•  File Format – .pbix for dashboard development and .png for dashboard previews/screenshots.
+•  Power BI Desktop – Main platform used for dashboard development and data visualization.<br>
+•  Power Query – Used for data cleaning, transformation, and preprocessing.<br>
+•  DAX (Data Analysis Expressions) – Implemented for KPI calculations, measures, and dynamic reporting logic.<br>
+•  SQL & Snowflake – Used for querying, managing, and analyzing large-scale business datasets.<br>
+•  Data Modeling – Established relationships among multiple business tables for efficient cross-filtering and analysis.<br>
+•  File Format – .pbix for dashboard development and .png for dashboard previews/screenshots.<br>
 
 
 ## 4. Data Source
