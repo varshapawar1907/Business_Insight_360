@@ -126,3 +126,8 @@ Provided a centralized analytics platform for tracking business growth, profitab
 Example: ![Dashboard Preview](https://github.com/varshapawar1907/Business_Insight_360/blob/main/Business%20Insights%20360.png)
 
 
+### 🔗 Live Interactive Dashboard
+
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjM5ZjJiN2ItYWRhYi00ZGE2LThhMTktNzNiMjY2NWMxZDJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
